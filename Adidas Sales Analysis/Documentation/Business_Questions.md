@@ -4,25 +4,25 @@ The following business questions are explored in this Power BI project.
 
 
 
-What is the total sales revenue?
+1.What is the total sales revenue?
 
-What is the total profit?
+2.What is the total profit?
 
-What is the total number of units sold?
+3.What is the total number of units sold?
 
-What is the average profit margin?
+4.What is the average profit margin?
 
-What is the average price per unit?
+5.What is the average price per unit?
 
-How do total sales vary by month?
+6.How do total sales vary by month?
 
-How do total sales vary by state?
+7.How do total sales vary by state?
 
-How do total sales vary by region?
+8How do total sales vary by region?
 
-Which products generate the highest sales?
+9.Which products generate the highest sales?
 
-Which retailers generate the highest sales?
+10.Which retailers generate the highest sales?
 
 
 
