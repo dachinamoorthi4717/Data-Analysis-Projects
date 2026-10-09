@@ -1,3 +1,7 @@
+Business Questions
+
+The following business questions are explored in this Power BI project.
+
 What is the total sales revenue?
 What is the total profit?
 What is the total number of units sold?
