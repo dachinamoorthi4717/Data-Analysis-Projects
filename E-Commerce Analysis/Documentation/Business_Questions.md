@@ -10,6 +10,7 @@ Sales & Profit
 7.Which products have high sales but low profit?
 8.Which products are causing losses?
 
+
 Customer & Geography
 
 
