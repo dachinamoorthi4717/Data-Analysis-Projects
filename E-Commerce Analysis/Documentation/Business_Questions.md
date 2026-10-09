@@ -1,20 +1,20 @@
 Sales & Profit
 
-1.What is the total sales and total profit?
+1. What is the total sales and total profit?
 
-2.Which month generated the highest sales?
+2. Which month generated the highest sales?
 
-3.Which month generated the highest profit?
+3. Which month generated the highest profit?
 
-4.Which category generates the highest sales?
+4. Which category generates the highest sales?
 
-5.Which category generates the highest profit?
+5. Which category generates the highest profit?
 
-6.Which sub-category generates the highest profit?
+6. Which sub-category generates the highest profit?
 
-7.Which products have high sales but low profit?
+7. Which products have high sales but low profit?
 
-8.Which products are causing losses?
+8. Which products are causing losses?
 
 Customer & Geography
 
