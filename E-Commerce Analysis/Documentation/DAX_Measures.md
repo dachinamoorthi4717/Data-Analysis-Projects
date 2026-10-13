@@ -28,7 +28,7 @@ Target Shortfall=[Total Sales] - [Sales Target]
       It Calculates the difference between the Total Sales and Sales Target 
 
 
-7. Target Status
+6. Target Status
 Target Status = IF('Order Details'[Total Sales]>='Sales target'[Sales Target],"Achived","not achived")
 
    It Calculates whether the target is achived or not achived   
